@@ -5,11 +5,15 @@
 // Karin Patenge, Oracle
 // September, 2025
 //
+// Documentation:
+// https://docs.oracle.com/en/database/oracle/oracle-database/23/spajv/oracle/spatial/geometry/package-summary.html
+// https://docs.oracle.com/en/database/oracle/oracle-database/23/spajv/oracle/spatial/util/package-summary.html
+//
 
 package org.citydb.database.oracle;
 
 import oracle.spatial.geometry.JGeometry;
-import oracle.spatial.util.GeoData;
+import oracle.spatial.util.GeoData;  // ???
 
 import org.citydb.database.adapter.DatabaseAdapter;
 import org.citydb.database.geometry.GeometryException;

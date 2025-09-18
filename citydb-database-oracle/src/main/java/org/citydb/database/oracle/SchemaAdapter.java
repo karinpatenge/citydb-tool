@@ -6,7 +6,6 @@
 // September, 2025
 //
 
-/* Start Java code */
 package org.citydb.database.oracle;
 
 import org.citydb.core.concurrent.LazyCheckedInitializer;
